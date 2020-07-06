@@ -7,5 +7,8 @@ namespace ConsoleApp1
     public class Otro
     {
         public string Nombre { get; set; }
+
+
+
     }
 }
